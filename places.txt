@@ -1,0 +1,3 @@
+map3:		 499, 66
+mushroom_island:-490, -1411
+home:		-329, 40

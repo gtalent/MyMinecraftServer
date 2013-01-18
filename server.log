@@ -2954,3 +2954,44 @@
 2012-07-09 12:50:36 [INFO] Done (1.495s)! For help, type "help" or "?"
 2012-07-09 12:50:53 [INFO] gtyron [/192.168.0.102:34214] logged in with entity id 26 at (-329.53125, 68.0, 37.375)
 2012-07-09 13:21:27 [INFO] gtyron lost connection: disconnect.quitting
+2012-07-10 21:36:46 [INFO] Starting minecraft server version 1.2.5
+2012-07-10 21:36:46 [INFO] Loading properties
+2012-07-10 21:36:46 [INFO] Starting Minecraft server on *:25565
+2012-07-10 21:36:46 [INFO] Preparing level "world"
+2012-07-10 21:36:46 [INFO] Default game type: 0
+2012-07-10 21:36:46 [INFO] Preparing start region for level 0
+2012-07-10 21:36:47 [INFO] Done (1.127s)! For help, type "help" or "?"
+2012-07-10 21:37:21 [INFO] gtyron [/192.168.0.102:34565] logged in with entity id 27 at (-563.0, 91.0, -1512.9375)
+2012-07-10 21:49:00 [INFO] gtyron tried command: give
+2012-07-10 22:05:26 [INFO] gtyron lost connection: disconnect.quitting
+2012-08-24 22:26:18 [INFO] Starting minecraft server version 1.2.5
+2012-08-24 22:26:18 [INFO] Loading properties
+2012-08-24 22:26:18 [INFO] Starting Minecraft server on *:25565
+2012-08-24 22:26:18 [INFO] Preparing level "world"
+2012-08-24 22:26:18 [INFO] Default game type: 0
+2012-08-24 22:26:18 [INFO] Preparing start region for level 0
+2012-08-24 22:26:19 [INFO] Done (1.181s)! For help, type "help" or "?"
+2012-08-30 00:24:44 [INFO] Starting minecraft server version 1.2.5
+2012-08-30 00:24:44 [INFO] Loading properties
+2012-08-30 00:24:44 [INFO] Starting Minecraft server on *:25565
+2012-08-30 00:24:44 [INFO] Preparing level "world"
+2012-08-30 00:24:45 [INFO] Default game type: 0
+2012-08-30 00:24:45 [INFO] Preparing start region for level 0
+2012-08-30 00:24:45 [INFO] Done (0.816s)! For help, type "help" or "?"
+2012-08-30 00:26:19 [INFO] /192.168.1.4:43321 lost connection
+2012-08-30 00:26:28 [INFO] /192.168.1.4:43323 lost connection
+2012-08-30 00:26:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-08-30 00:27:32 [INFO] Starting minecraft server version 1.2.5
+2012-08-30 00:27:32 [INFO] Loading properties
+2012-08-30 00:27:32 [INFO] Starting Minecraft server on *:25565
+2012-08-30 00:27:32 [INFO] Preparing level "world"
+2012-08-30 00:27:32 [INFO] Default game type: 0
+2012-08-30 00:27:32 [INFO] Preparing start region for level 0
+2012-08-30 00:27:33 [INFO] Done (0.536s)! For help, type "help" or "?"
+2012-08-30 00:27:48 [INFO] /192.168.1.4:43325 lost connection
+2012-08-30 01:07:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-08-30 01:07:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-08-30 10:33:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-08-30 10:33:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-08-30 10:33:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-08-30 10:33:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
