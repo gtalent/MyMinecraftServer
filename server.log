@@ -2995,3 +2995,47 @@
 2012-08-30 10:33:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
 2012-08-30 10:33:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
 2012-08-30 10:33:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-19 00:20:45 [INFO] Starting minecraft server version 1.2.5
+2013-01-19 00:20:45 [INFO] Loading properties
+2013-01-19 00:20:45 [INFO] Starting Minecraft server on *:25565
+2013-01-19 00:20:45 [INFO] Preparing level "world"
+2013-01-19 00:20:45 [INFO] Default game type: 0
+2013-01-19 00:20:45 [INFO] Preparing start region for level 0
+2013-01-19 00:20:46 [INFO] Done (0.338s)! For help, type "help" or "?"
+2013-01-19 00:20:56 [INFO] /127.0.0.1:39908 lost connection
+2013-01-19 00:21:56 [INFO] Starting minecraft server version 1.4.7
+2013-01-19 00:21:56 [INFO] Loading properties
+2013-01-19 00:21:56 [INFO] Default game type: SURVIVAL
+2013-01-19 00:21:56 [INFO] Generating keypair
+2013-01-19 00:21:57 [INFO] Starting Minecraft server on *:25565
+2013-01-19 00:21:57 [INFO] Preparing level "world"
+2013-01-19 00:21:57 [INFO] Preparing start region for level 0
+2013-01-19 00:21:57 [INFO] Done (0.558s)! For help, type "help" or "?"
+2013-01-19 00:22:22 [INFO] gtyron[/127.0.0.1:39920] logged in with entity id 21 at (-548.5132999408762, 95.0, -1525.1003898765528)
+2013-01-19 01:23:12 [INFO] gtyron lost connection: disconnect.quitting
+2013-01-19 10:48:40 [INFO] gtyron[/127.0.0.1:43637] logged in with entity id 129442 at (-326.69999998807907, 64.0, 37.13244271077515)
+2013-01-19 11:05:31 [INFO] gtyron lost connection: disconnect.quitting
+2013-01-19 11:08:22 [INFO] Stopping server
+2013-01-20 00:46:31 [INFO] Starting minecraft server version 1.4.7
+2013-01-20 00:46:31 [INFO] Loading properties
+2013-01-20 00:46:31 [INFO] Default game type: SURVIVAL
+2013-01-20 00:46:31 [INFO] Generating keypair
+2013-01-20 00:46:31 [INFO] Starting Minecraft server on *:25565
+2013-01-20 00:46:31 [INFO] Preparing level "world"
+2013-01-20 00:46:31 [INFO] Preparing start region for level 0
+2013-01-20 00:46:31 [INFO] Done (0.470s)! For help, type "help" or "?"
+2013-01-20 12:58:48 [INFO] gtyron[/192.168.1.16:35357] logged in with entity id 22 at (-329.88427535647384, 68.0, 40.339008975071906)
+2013-01-20 13:10:15 [INFO] gtyron lost connection: disconnect.genericReason
+2013-01-24 19:45:32 [INFO] gtyron[/127.0.0.1:46776] logged in with entity id 32361 at (-346.3668339792308, 105.0, 94.13275565164255)
+2013-01-24 20:02:09 [INFO] gtyron lost connection: disconnect.quitting
+2013-01-25 22:13:10 [INFO] Stopping server
+2013-01-26 14:07:40 [INFO] Starting minecraft server version 1.4.7
+2013-01-26 14:07:40 [INFO] Loading properties
+2013-01-26 14:07:40 [INFO] Default game type: SURVIVAL
+2013-01-26 14:07:40 [INFO] Generating keypair
+2013-01-26 14:07:40 [INFO] Starting Minecraft server on *:25565
+2013-01-26 14:07:40 [INFO] Preparing level "world"
+2013-01-26 14:07:40 [INFO] Preparing start region for level 0
+2013-01-26 14:07:41 [INFO] Done (0.440s)! For help, type "help" or "?"
+2013-01-26 14:08:07 [INFO] gtyron[/127.0.0.1:41775] logged in with entity id 24 at (-353.9094113079075, 140.875, 31.310833631243817)
+2013-01-26 14:57:31 [INFO] gtyron lost connection: disconnect.quitting
