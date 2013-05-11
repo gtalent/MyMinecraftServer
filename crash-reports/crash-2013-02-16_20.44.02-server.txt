@@ -1,0 +1,33 @@
+---- Minecraft Crash Report ----
+// Daisy, daisy...
+
+Time: 2/16/13 8:44 PM
+Description: Exception in server tick loop
+
+java.lang.IllegalArgumentException: Too big view radius!
+	at ik.<init>(SourceFile:144)
+	at in.<init>(SourceFile:73)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:459)
+	at ho.c(SourceFile:169)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:588)
+	at fy.run(SourceFile:849)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.4.7
+	Operating System: Linux (amd64) version 3.7.5-1-ARCH
+	Java Version: 1.7.0_13, Oracle Corporation
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 991455480 bytes (945 MB) / 1029046272 bytes (981 MB) up to 7635533824 bytes (7281 MB)
+	JVM Flags: 2 total; -Xms1024M -Xmx8192M
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	Suspicious classes: No suspicious classes found.
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	Profiler Position: N/A (disabled)
+	Player Count: 0 / 20; []
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)

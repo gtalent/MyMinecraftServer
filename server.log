@@ -3133,3 +3133,370 @@ java.lang.IllegalArgumentException: Too big view radius!
 2013-02-04 21:34:30 [INFO] gtyron lost connection: disconnect.quitting
 2013-02-04 21:37:57 [INFO] gtyron[/127.0.0.1:55734] logged in with entity id 501323 at (-418.5830329691677, 65.0, 5.94450318683373)
 2013-02-04 22:14:15 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-05 17:36:59 [INFO] Starting minecraft server version 1.4.7
+2013-02-05 17:36:59 [INFO] Loading properties
+2013-02-05 17:36:59 [INFO] Default game type: SURVIVAL
+2013-02-05 17:36:59 [INFO] Generating keypair
+2013-02-05 17:36:59 [INFO] Starting Minecraft server on *:25565
+2013-02-05 17:36:59 [INFO] Preparing level "world"
+2013-02-05 17:37:00 [INFO] Preparing start region for level 0
+2013-02-05 17:37:00 [INFO] Done (0.460s)! For help, type "help" or "?"
+2013-02-05 17:37:06 [INFO] gtyron[/127.0.0.1:59866] logged in with entity id 22 at (-416.856530497086, 65.0, 3.699999988079074)
+2013-02-05 19:13:34 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-05 19:51:22 [INFO] gtyron[/127.0.0.1:60596] logged in with entity id 123387 at (-277.7047776624382, 67.0, -107.56999582115078)
+2013-02-05 21:56:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-05 22:15:41 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-06 18:39:53 [INFO] gtyron[/127.0.0.1:36108] logged in with entity id 380078 at (-418.44519456665796, 65.0, 5.306222779336375)
+2013-02-06 19:34:24 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-06 21:24:21 [INFO] gtyron[/127.0.0.1:37146] logged in with entity id 433367 at (-417.5391411023672, 65.0, 7.6999999880790755)
+2013-02-06 22:37:28 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-07 18:21:38 [INFO] gtyron[/127.0.0.1:39570] logged in with entity id 556941 at (-414.5489656649593, 65.0, 4.923790975548375)
+2013-02-07 18:46:18 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-07 19:19:40 [INFO] Stopping server
+2013-02-08 12:32:22 [INFO] Starting minecraft server version 1.4.7
+2013-02-08 12:32:22 [INFO] Loading properties
+2013-02-08 12:32:22 [INFO] Default game type: SURVIVAL
+2013-02-08 12:32:22 [INFO] Generating keypair
+2013-02-08 12:32:22 [INFO] Starting Minecraft server on *:25565
+2013-02-08 12:32:22 [INFO] Preparing level "world"
+2013-02-08 12:32:22 [INFO] Preparing start region for level 0
+2013-02-08 12:32:23 [INFO] Done (0.444s)! For help, type "help" or "?"
+2013-02-08 17:24:07 [INFO] gtyron[/127.0.0.1:34346] logged in with entity id 22 at (-441.87237068517067, 82.0, 0.0739875614380629)
+2013-02-08 17:56:49 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-08 18:49:59 [INFO] gtyron[/127.0.0.1:35033] logged in with entity id 76051 at (-326.14528289992325, 68.0, 37.39746759629805)
+2013-02-08 18:52:06 [WARNING] gtyron moved wrongly!
+2013-02-08 19:37:03 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-08 19:59:48 [INFO] gtyron[/127.0.0.1:35121] logged in with entity id 223591 at (-328.61867919438805, 68.0, 37.128669528154695)
+2013-02-08 20:11:24 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-08 20:17:14 [INFO] gtyron[/127.0.0.1:35787] logged in with entity id 261122 at (-329.5, 68.0, 37.5)
+2013-02-08 20:17:20 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-08 20:18:57 [INFO] gtyron[/99.190.130.225:51799] logged in with entity id 261431 at (-325.66105805849503, 68.0, 36.529872367012274)
+2013-02-08 22:20:06 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-08 23:37:19 [INFO] gtyron[/127.0.0.1:37843] logged in with entity id 685670 at (-330.17014478791293, 68.5625, 37.28240163515875)
+2013-02-08 23:37:59 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-08 23:38:06 [INFO] gtyron[/127.0.0.1:37849] logged in with entity id 687746 at (-321.53728807231823, 72.0, 83.57499998807907)
+2013-02-09 00:57:31 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-09 14:33:58 [INFO] gtyron[/127.0.0.1:39355] logged in with entity id 949843 at (-327.61645318100034, 68.0, 39.10055110676442)
+2013-02-09 14:54:47 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-09 20:06:26 [INFO] gtyron[/127.0.0.1:42469] logged in with entity id 980148 at (-416.0342865562348, 65.0, 4.788156584350651)
+2013-02-09 21:22:14 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-09 21:45:07 [INFO] gtyron[/127.0.0.1:44721] logged in with entity id 1225834 at (-329.5, 68.0, 37.5)
+2013-02-09 21:54:25 [WARNING] gtyron moved wrongly!
+2013-02-09 21:57:26 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-10 00:37:09 [INFO] gtyron[/127.0.0.1:47132] logged in with entity id 1267701 at (-326.8781279141855, 68.0, 37.323337199480285)
+2013-02-10 01:26:45 [WARNING] gtyron moved wrongly!
+2013-02-10 01:55:58 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-10 14:08:53 [INFO] gtyron[/127.0.0.1:48983] logged in with entity id 1566443 at (-329.55709780871246, 68.0, 38.49611023708575)
+2013-02-10 14:42:25 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-10 16:41:42 [INFO] gtyron[/127.0.0.1:50707] logged in with entity id 1645301 at (-329.4560568170017, 68.0, 38.730246588937604)
+2013-02-10 17:49:10 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-10 20:58:48 [INFO] gtyron[/127.0.0.1:52202] logged in with entity id 2201020 at (-327.5315431345796, 68.0, 37.94637577962283)
+2013-02-10 21:08:20 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-10 21:37:48 [INFO] gtyron[/127.0.0.1:52411] logged in with entity id 2234990 at (-328.7358557166988, 68.0, 39.25782365503813)
+2013-02-10 21:55:34 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-10 21:55:43 [INFO] gtyron[/127.0.0.1:52452] logged in with entity id 2297632 at (-329.5, 68.0, 37.5)
+2013-02-10 21:55:45 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-10 22:02:23 [INFO] Starting minecraft server version 1.4.7
+2013-02-10 22:02:23 [INFO] Loading properties
+2013-02-10 22:02:23 [INFO] Default game type: SURVIVAL
+2013-02-10 22:02:23 [INFO] Generating keypair
+2013-02-10 22:02:23 [INFO] Starting Minecraft server on *:25565
+2013-02-10 22:02:23 [INFO] Preparing level "world"
+2013-02-10 22:02:23 [INFO] Preparing start region for level 0
+2013-02-10 22:02:23 [INFO] Done (0.432s)! For help, type "help" or "?"
+2013-02-10 22:02:39 [INFO] gtyron[/127.0.0.1:52489] logged in with entity id 21 at (-329.5, 68.0, 37.5)
+2013-02-10 23:22:28 [INFO] Starting minecraft server version 1.4.7
+2013-02-10 23:22:28 [INFO] Loading properties
+2013-02-10 23:22:28 [INFO] Default game type: SURVIVAL
+2013-02-10 23:22:28 [INFO] Generating keypair
+2013-02-10 23:22:29 [INFO] Starting Minecraft server on *:25565
+2013-02-10 23:22:29 [INFO] Preparing level "world"
+2013-02-10 23:22:29 [INFO] Preparing start region for level 0
+2013-02-10 23:22:29 [INFO] Done (0.491s)! For help, type "help" or "?"
+2013-02-10 23:22:34 [INFO] gtyron[/127.0.0.1:54028] logged in with entity id 21 at (-325.51725561610067, 68.0, 38.16719817372484)
+2013-02-10 23:23:17 [INFO] DaveThePenguin[/75.75.127.38:51869] logged in with entity id 1922 at (-3.5, 52.62000000476837, -6.5)
+2013-02-10 23:24:54 [INFO] DaveThePenguin lost connection: disconnect.quitting
+2013-02-10 23:25:25 [INFO] DaveThePenguin[/75.75.127.38:51883] logged in with entity id 4265 at (-112.29767769879584, 63.0, 13.427775241696107)
+2013-02-10 23:29:23 [INFO] DaveThePenguin was slain by gtyron
+2013-02-10 23:45:57 [INFO] DaveThePenguin lost connection: disconnect.quitting
+2013-02-10 23:47:02 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-11 22:47:34 [INFO] gtyron[/127.0.0.1:60177] logged in with entity id 71842 at (-328.6316505916239, 68.0, 38.834792307374585)
+2013-02-11 22:50:05 [INFO] DaveThePenguin[/75.75.127.38:49252] logged in with entity id 81633 at (-327.6998412581988, 68.0, 41.25408902344002)
+2013-02-11 22:55:56 [INFO] <gtyron> Narf!
+2013-02-11 22:55:58 [INFO] <DaveThePenguin> haha!!!!!!!!!!!!!!!!!!!!!!!!!!
+2013-02-11 23:06:50 [INFO] <DaveThePenguin> bed!
+2013-02-11 23:28:45 [INFO] <DaveThePenguin> bed!
+2013-02-11 23:39:42 [INFO] <DaveThePenguin> wwwwwwbed!
+2013-02-11 23:47:12 [INFO] DaveThePenguin hit the ground too hard
+2013-02-11 23:51:15 [INFO] <DaveThePenguin> i threw myself on the ground!
+2013-02-11 23:59:04 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-11 23:59:10 [INFO] DaveThePenguin lost connection: disconnect.quitting
+2013-02-12 20:12:02 [INFO] gtyron[/127.0.0.1:37657] logged in with entity id 309220 at (-328.8893619239309, 68.0, 39.02338047470035)
+2013-02-12 20:50:03 [WARNING] gtyron moved wrongly!
+2013-02-12 21:25:21 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-12 22:13:01 [INFO] gtyron[/127.0.0.1:38644] logged in with entity id 515781 at (-327.364889435709, 68.0, 37.0121706981266)
+2013-02-12 22:51:24 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-12 23:31:51 [INFO] DaveThePenguin[/67.187.3.248:49165] logged in with entity id 668709 at (-328.46755140724514, 68.0, 41.56961763654283)
+2013-02-13 00:15:00 [INFO] DaveThePenguin lost connection: disconnect.quitting
+2013-02-13 22:50:54 [INFO] gtyron[/192.168.1.16:35504] logged in with entity id 812580 at (-325.89909922639475, 68.0, 37.36311231635885)
+2013-02-13 22:55:18 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-14 22:36:08 [INFO] DaveThePenguin[/24.127.54.19:49356] logged in with entity id 854140 at (-354.83410457377806, 140.0, 28.02724473978857)
+2013-02-14 22:46:43 [INFO] gtyron[/127.0.0.1:52465] logged in with entity id 930876 at (-326.49890979009245, 64.0, 39.29484041746972)
+2013-02-14 22:47:51 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-14 22:48:19 [INFO] gtyron[/127.0.0.1:52483] logged in with entity id 934268 at (-344.64681219367304, 63.5, 32.76715842382828)
+2013-02-14 22:53:11 [INFO] <DaveThePenguin> hi~
+2013-02-14 23:04:08 [INFO] <DaveThePenguin> sleep
+2013-02-14 23:46:59 [INFO] DaveThePenguin lost connection: disconnect.quitting
+2013-02-14 23:47:07 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-15 16:16:46 [INFO] gtyron[/127.0.0.1:57783] logged in with entity id 1075609 at (-327.5117833801418, 68.0, 39.31959152354317)
+2013-02-15 17:10:34 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-15 17:46:31 [INFO] gtyron[/127.0.0.1:58536] logged in with entity id 1230655 at (-329.5, 68.0, 37.5)
+2013-02-15 17:57:34 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-15 17:57:39 [INFO] gtyron[/127.0.0.1:58574] logged in with entity id 1270175 at (-327.4137030145075, 69.5625, 43.30000001192093)
+2013-02-15 17:57:45 [INFO] gtyron suffocated in a wall
+2013-02-15 19:12:31 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-15 19:13:08 [INFO] gtyron[/127.0.0.1:59363] logged in with entity id 1533876 at (-414.1577003032003, 65.0, 5.50668953915568)
+2013-02-15 19:18:56 [WARNING] gtyron moved wrongly!
+2013-02-15 19:45:32 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-15 21:44:20 [INFO] gtyron[/127.0.0.1:59695] logged in with entity id 1624831 at (-327.2236768022312, 68.0, 41.69999998807907)
+2013-02-15 23:21:39 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-15 23:39:00 [INFO] gtyron[/127.0.0.1:59804] logged in with entity id 2154634 at (-327.006975117969, 68.0, 39.03143029674263)
+2013-02-15 23:44:53 [INFO] DaveThePenguin[/24.127.54.19:50736] logged in with entity id 2180782 at (-328.77272381402366, 68.0, 37.687443363412136)
+2013-02-16 00:10:18 [INFO] <gtyron> Ni!
+2013-02-16 00:10:21 [INFO] <DaveThePenguin> ni!
+2013-02-16 00:11:05 [INFO] <DaveThePenguin> bed!
+2013-02-16 00:14:44 [WARNING] gtyron moved wrongly!
+2013-02-16 00:14:53 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-16 00:14:57 [INFO] gtyron[/127.0.0.1:59839] logged in with entity id 2246868 at (-255.70651119509554, 107.0, 66.02670622116703)
+2013-02-16 00:43:18 [INFO] <DaveThePenguin> woosh
+2013-02-16 02:32:40 [INFO] DaveThePenguin lost connection: disconnect.quitting
+2013-02-16 02:34:31 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-16 13:17:50 [INFO] gtyron[/127.0.0.1:60941] logged in with entity id 4648035 at (-457.8385041680952, 155.0, -118.72204508809762)
+2013-02-16 13:39:35 [WARNING] gtyron moved wrongly!
+2013-02-16 15:06:58 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-16 19:57:21 [INFO] gtyron[/127.0.0.1:33971] logged in with entity id 6589925 at (-456.83907002695696, 155.0, -117.55212161420691)
+2013-02-16 20:35:43 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-16 20:35:52 [INFO] Stopping server
+2013-02-16 20:36:21 [INFO] Starting minecraft server version 1.4.7
+2013-02-16 20:36:21 [INFO] Loading properties
+2013-02-16 20:36:21 [INFO] Default game type: SURVIVAL
+2013-02-16 20:36:21 [INFO] Generating keypair
+2013-02-16 20:36:21 [INFO] Starting Minecraft server on *:25565
+2013-02-16 20:36:21 [INFO] Preparing level "world"
+2013-02-16 20:36:21 [INFO] Preparing start region for level 0
+2013-02-16 20:36:22 [INFO] Done (0.443s)! For help, type "help" or "?"
+2013-02-16 20:36:40 [INFO] gtyron[/127.0.0.1:34035] logged in with entity id 74 at (-244.91236666960992, 110.0, 48.69999998807906)
+2013-02-16 20:41:44 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-16 20:42:12 [INFO] Stopping server
+2013-02-16 20:43:02 [INFO] Starting minecraft server version 1.4.7
+2013-02-16 20:43:02 [INFO] Loading properties
+2013-02-16 20:43:02 [INFO] Default game type: SURVIVAL
+2013-02-16 20:43:02 [INFO] Generating keypair
+2013-02-16 20:43:02 [INFO] Starting Minecraft server on *:25565
+2013-02-16 20:43:02 [INFO] Preparing level "world"
+2013-02-16 20:43:02 [SEVERE] Encountered an unexpected exception IllegalArgumentException
+java.lang.IllegalArgumentException: Too big view radius!
+	at ik.<init>(SourceFile:144)
+	at in.<init>(SourceFile:73)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:459)
+	at ho.c(SourceFile:169)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:588)
+	at fy.run(SourceFile:849)
+2013-02-16 20:43:02 [SEVERE] This crash report has been saved to: /home/gary/MyMinecraftServer/./crash-reports/crash-2013-02-16_20.43.02-server.txt
+2013-02-16 20:43:36 [INFO] Stopping server
+2013-02-16 20:43:36 [INFO] Saving players
+2013-02-16 20:43:36 [INFO] Saving worlds
+2013-02-16 20:43:45 [INFO] Starting minecraft server version 1.4.7
+2013-02-16 20:43:45 [INFO] Loading properties
+2013-02-16 20:43:45 [INFO] Default game type: SURVIVAL
+2013-02-16 20:43:45 [INFO] Generating keypair
+2013-02-16 20:43:45 [INFO] Starting Minecraft server on *:25565
+2013-02-16 20:43:45 [INFO] Preparing level "world"
+2013-02-16 20:43:45 [SEVERE] Encountered an unexpected exception IllegalArgumentException
+java.lang.IllegalArgumentException: Too big view radius!
+	at ik.<init>(SourceFile:144)
+	at in.<init>(SourceFile:73)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:459)
+	at ho.c(SourceFile:169)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:588)
+	at fy.run(SourceFile:849)
+2013-02-16 20:43:45 [SEVERE] This crash report has been saved to: /home/gary/MyMinecraftServer/./crash-reports/crash-2013-02-16_20.43.45-server.txt
+2013-02-16 20:44:02 [INFO] Stopping server
+2013-02-16 20:44:02 [INFO] Starting minecraft server version 1.4.7
+2013-02-16 20:44:02 [INFO] Loading properties
+2013-02-16 20:44:02 [INFO] Default game type: SURVIVAL
+2013-02-16 20:44:02 [INFO] Generating keypair
+2013-02-16 20:44:02 [INFO] Starting Minecraft server on *:25565
+2013-02-16 20:44:02 [INFO] Preparing level "world"
+2013-02-16 20:44:02 [SEVERE] Encountered an unexpected exception IllegalArgumentException
+java.lang.IllegalArgumentException: Too big view radius!
+	at ik.<init>(SourceFile:144)
+	at in.<init>(SourceFile:73)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:459)
+	at ho.c(SourceFile:169)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:588)
+	at fy.run(SourceFile:849)
+2013-02-16 20:44:02 [SEVERE] This crash report has been saved to: /home/gary/MyMinecraftServer/./crash-reports/crash-2013-02-16_20.44.02-server.txt
+2013-02-16 20:44:12 [INFO] Stopping server
+2013-02-16 20:44:12 [INFO] Saving players
+2013-02-16 20:44:12 [INFO] Starting minecraft server version 1.4.7
+2013-02-16 20:44:12 [INFO] Loading properties
+2013-02-16 20:44:12 [INFO] Default game type: SURVIVAL
+2013-02-16 20:44:12 [INFO] Generating keypair
+2013-02-16 20:44:12 [INFO] Starting Minecraft server on *:25565
+2013-02-16 20:44:12 [INFO] Preparing level "world"
+2013-02-16 20:44:12 [INFO] Preparing start region for level 0
+2013-02-16 20:44:13 [INFO] Done (0.424s)! For help, type "help" or "?"
+2013-02-16 20:44:31 [INFO] gtyron[/127.0.0.1:34057] logged in with entity id 22 at (-446.35513717995593, 160.0, -114.93953045276159)
+2013-02-16 20:52:45 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-17 12:38:21 [INFO] gtyron[/127.0.0.1:35981] logged in with entity id 217037 at (-457.6689627762017, 155.0, -118.44404479311524)
+2013-02-17 13:11:56 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-17 14:11:37 [INFO] Stopping server
+2013-02-17 18:24:08 [INFO] Starting minecraft server version 1.4.7
+2013-02-17 18:24:08 [INFO] Loading properties
+2013-02-17 18:24:08 [INFO] Default game type: SURVIVAL
+2013-02-17 18:24:08 [INFO] Generating keypair
+2013-02-17 18:24:08 [INFO] Starting Minecraft server on *:25565
+2013-02-17 18:24:08 [INFO] Preparing level "world"
+2013-02-17 18:24:08 [INFO] Preparing start region for level 0
+2013-02-17 18:24:08 [INFO] Done (0.432s)! For help, type "help" or "?"
+2013-02-19 18:14:40 [INFO] Stopping server
+2013-02-19 21:40:31 [INFO] Starting minecraft server version 1.4.7
+2013-02-19 21:40:31 [INFO] Loading properties
+2013-02-19 21:40:31 [INFO] Default game type: SURVIVAL
+2013-02-19 21:40:31 [INFO] Generating keypair
+2013-02-19 21:40:31 [INFO] Starting Minecraft server on *:25565
+2013-02-19 21:40:31 [INFO] Preparing level "world"
+2013-02-19 21:40:31 [INFO] Preparing start region for level 0
+2013-02-19 21:40:31 [INFO] Done (0.448s)! For help, type "help" or "?"
+2013-02-20 21:27:49 [INFO] gtyron[/127.0.0.1:36567] logged in with entity id 22 at (-326.6541911658034, 68.0, 39.942848252599354)
+2013-02-20 22:30:45 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-21 19:33:58 [INFO] gtyron[/127.0.0.1:38987] logged in with entity id 790862 at (-456.07091346062913, 155.0, -116.61858483152244)
+2013-02-21 21:28:50 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-22 15:34:21 [INFO] gtyron[/127.0.0.1:42451] logged in with entity id 3493380 at (-444.31536964505943, 155.5625, -118.73552077449833)
+2013-02-22 16:27:24 [INFO] gtyron lost connection: disconnect.quitting
+2013-02-22 16:28:41 [INFO] Stopping server
+2013-03-01 14:48:31 [INFO] Starting minecraft server version 1.4.7
+2013-03-01 14:48:31 [INFO] Loading properties
+2013-03-01 14:48:31 [INFO] Default game type: SURVIVAL
+2013-03-01 14:48:31 [INFO] Generating keypair
+2013-03-01 14:48:32 [INFO] Starting Minecraft server on *:25565
+2013-03-01 14:48:32 [INFO] Preparing level "world"
+2013-03-01 14:48:32 [INFO] Preparing start region for level 0
+2013-03-01 14:48:32 [INFO] Done (0.431s)! For help, type "help" or "?"
+2013-03-02 12:17:52 [INFO] gtyron[/99.128.240.171:58509] logged in with entity id 21 at (-451.9193278685765, 155.0, -117.56907122326082)
+2013-03-02 12:17:52 [INFO] gtyron lost connection: disconnect.endOfStream
+2013-03-02 12:18:01 [INFO] gtyron[/99.128.240.171:58516] logged in with entity id 578 at (-451.9193278685765, 155.0, -117.56907122326082)
+2013-03-02 12:18:03 [INFO] gtyron lost connection: disconnect.genericReason
+2013-03-02 12:20:35 [INFO] gtyron[/99.128.240.171:59450] logged in with entity id 1743 at (-451.9193278685765, 155.0, -117.56907122326082)
+2013-03-02 12:26:10 [INFO] gtyron lost connection: disconnect.genericReason
+2013-03-03 21:02:34 [INFO] Stopping server
+2013-03-05 22:00:26 [INFO] Starting minecraft server version 1.4.7
+2013-03-05 22:00:26 [INFO] Loading properties
+2013-03-05 22:00:26 [INFO] Default game type: SURVIVAL
+2013-03-05 22:00:26 [INFO] Generating keypair
+2013-03-05 22:00:26 [INFO] Starting Minecraft server on *:25565
+2013-03-05 22:00:26 [INFO] Preparing level "world"
+2013-03-05 22:00:26 [INFO] Preparing start region for level 0
+2013-03-05 22:00:26 [INFO] Done (0.434s)! For help, type "help" or "?"
+2013-03-05 22:31:18 [INFO] gtyron[/127.0.0.1:38646] logged in with entity id 21 at (-440.30000001192093, 157.0, -118.69957625870673)
+2013-03-05 22:41:45 [INFO] DaveThePenguin[/98.244.119.215:52547] logged in with entity id 265409 at (-452.3171905705455, 151.0, -119.3393890588674)
+2013-03-05 22:53:07 [INFO] DaveThePenguin lost connection: disconnect.quitting
+2013-03-05 22:53:20 [INFO] DaveThePenguin[/98.244.119.215:52554] logged in with entity id 358011 at (-1119.7931541411929, 64.0, -16.588483883731286)
+2013-03-05 23:03:17 [INFO] gtyron lost connection: disconnect.quitting
+2013-03-05 23:06:31 [INFO] gtyron[/127.0.0.1:38664] logged in with entity id 380214 at (-1089.171847172681, 65.0, 14.634735692951217)
+2013-03-05 23:26:23 [INFO] DaveThePenguin lost connection: disconnect.quitting
+2013-03-05 23:26:30 [INFO] DaveThePenguin[/98.244.119.215:52569] logged in with entity id 539812 at (-270.18197214550463, 65.0, -109.03591920906334)
+2013-03-05 23:37:36 [INFO] DaveThePenguin lost connection: disconnect.quitting
+2013-03-05 23:37:58 [INFO] DaveThePenguin[/98.244.119.215:52573] logged in with entity id 559218 at (-374.4029184696282, 63.0, -119.69999998807907)
+2013-03-05 23:40:36 [INFO] gtyron lost connection: disconnect.quitting
+2013-03-05 23:48:59 [INFO] DaveThePenguin lost connection: disconnect.quitting
+2013-03-06 17:13:09 [INFO] Stopping server
+2013-03-12 23:36:21 [INFO] Starting minecraft server version 1.4.7
+2013-03-12 23:36:21 [INFO] Loading properties
+2013-03-12 23:36:21 [INFO] Default game type: SURVIVAL
+2013-03-12 23:36:21 [INFO] Generating keypair
+2013-03-12 23:36:21 [INFO] Starting Minecraft server on *:25565
+2013-03-12 23:36:21 [INFO] Preparing level "world"
+2013-03-12 23:36:21 [INFO] Preparing start region for level 0
+2013-03-12 23:36:22 [INFO] Done (0.440s)! For help, type "help" or "?"
+2013-03-12 23:36:46 [INFO] gtyron[/127.0.0.1:57903] logged in with entity id 23 at (-446.10257163952787, 155.0, -115.6309191835879)
+2013-03-12 23:40:15 [INFO] gtyron lost connection: disconnect.quitting
+2013-03-13 19:27:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-03-13 23:28:57 [INFO] Stopping server
+2013-03-14 19:08:32 [INFO] Starting minecraft server version 1.5
+2013-03-14 19:08:32 [INFO] Loading properties
+2013-03-14 19:08:32 [INFO] Default game type: SURVIVAL
+2013-03-14 19:08:32 [INFO] Generating keypair
+2013-03-14 19:08:33 [INFO] Starting Minecraft server on *:25565
+2013-03-14 19:08:33 [INFO] Preparing level "world"
+2013-03-14 19:08:33 [INFO] Preparing start region for level 0
+2013-03-14 19:08:33 [INFO] Done (0.498s)! For help, type "help" or "?"
+2013-03-14 19:09:21 [INFO] gtyron[/127.0.0.1:54743] logged in with entity id 23 at (-449.43736927089554, 155.0, -113.85592288413787)
+2013-03-14 19:21:23 [INFO] gtyron lost connection: disconnect.quitting
+2013-03-15 13:52:09 [INFO] Stopping server
+2013-03-19 18:49:17 [INFO] Starting minecraft server version 1.5
+2013-03-19 18:49:17 [INFO] Loading properties
+2013-03-19 18:49:17 [INFO] Default game type: SURVIVAL
+2013-03-19 18:49:17 [INFO] Generating keypair
+2013-03-19 18:49:17 [INFO] Starting Minecraft server on *:25565
+2013-03-19 18:49:17 [INFO] Preparing level "world"
+2013-03-19 18:49:17 [INFO] Preparing start region for level 0
+2013-03-19 18:49:18 [INFO] Done (0.451s)! For help, type "help" or "?"
+2013-03-23 15:04:05 [INFO] gtyron[/99.190.130.225:55555] logged in with entity id 23 at (-445.0703585195624, 155.0, -117.28241625014617)
+2013-03-23 15:11:10 [INFO] gtyron lost connection: disconnect.quitting
+2013-03-27 20:56:42 [INFO] Starting minecraft server version 1.5
+2013-03-27 20:56:42 [INFO] Loading properties
+2013-03-27 20:56:42 [INFO] Default game type: SURVIVAL
+2013-03-27 20:56:42 [INFO] Generating keypair
+2013-03-27 20:56:42 [INFO] Starting Minecraft server on *:25565
+2013-03-27 20:56:42 [INFO] Preparing level "world"
+2013-03-27 20:56:42 [INFO] Preparing start region for level 0
+2013-03-27 20:56:43 [INFO] Done (0.462s)! For help, type "help" or "?"
+2013-03-30 23:20:38 [INFO] gtyron[/127.0.0.1:59889] logged in with entity id 23 at (-455.44968326335766, 155.0, -118.28188452240123)
+2013-03-30 23:24:27 [INFO] gtyron lost connection: disconnect.quitting
+2013-03-30 23:57:43 [INFO] gtyron[/127.0.0.1:60640] logged in with entity id 98315 at (-455.16510251794983, 155.0, -117.8626375230628)
+2013-03-31 00:00:25 [INFO] gtyron lost connection: disconnect.quitting
+2013-03-31 00:15:48 [INFO] gtyron[/127.0.0.1:60923] logged in with entity id 169922 at (-455.6068259482876, 155.0, -117.57027460335284)
+2013-03-31 00:16:32 [INFO] DaveThePenguin[/68.57.149.19:52015] logged in with entity id 188991 at (-458.8615113457823, 165.0, -104.52831731909764)
+2013-03-31 00:20:23 [INFO] DaveThePenguin lost connection: disconnect.quitting
+2013-03-31 00:20:29 [INFO] DaveThePenguin[/68.57.149.19:52068] logged in with entity id 301313 at (-442.6837645098426, 165.0, -114.77385599256317)
+2013-03-31 00:36:03 [INFO] <DaveThePenguin> bed!~
+2013-03-31 00:46:49 [INFO] <DaveThePenguin> sleep
+2013-03-31 01:19:01 [INFO] gtyron lost connection: disconnect.quitting
+2013-03-31 01:19:16 [INFO] DaveThePenguin lost connection: disconnect.quitting
+2013-03-31 16:26:11 [INFO] gtyron[/127.0.0.1:38443] logged in with entity id 1776982 at (-453.55469900317917, 155.0, -117.55331830558129)
+2013-03-31 16:33:05 [INFO] gtyron lost connection: disconnect.quitting
+2013-03-31 16:37:19 [INFO] Stopping server
+2013-03-31 16:37:19 [INFO] Saving players
+2013-03-31 16:37:19 [INFO] Saving worlds
+2013-03-31 16:37:19 [INFO] Closing listening thread
+2013-03-31 16:37:19 [INFO] Saving chunks for level 'world'/Overworld
+2013-04-02 22:20:04 [INFO] Starting minecraft server version 1.5
+2013-04-02 22:20:04 [INFO] Loading properties
+2013-04-02 22:20:04 [INFO] Default game type: SURVIVAL
+2013-04-02 22:20:04 [INFO] Generating keypair
+2013-04-02 22:20:04 [INFO] Starting Minecraft server on *:25565
+2013-04-02 22:20:04 [INFO] Preparing level "world"
+2013-04-02 22:20:04 [INFO] Preparing start region for level 0
+2013-04-02 22:20:05 [INFO] Done (0.456s)! For help, type "help" or "?"
+2013-04-02 22:20:15 [INFO] gtyron[/192.168.1.16:49879] logged in with entity id 22 at (-447.6453966159676, 155.0, -116.20499608136467)
+2013-04-02 22:20:46 [INFO] gtyron lost connection: disconnect.genericReason
+2013-04-15 22:05:36 [INFO] Starting minecraft server version 1.5
+2013-04-15 22:05:36 [INFO] Loading properties
+2013-04-15 22:05:36 [INFO] Default game type: SURVIVAL
+2013-04-15 22:05:36 [INFO] Generating keypair
+2013-04-15 22:05:36 [INFO] Starting Minecraft server on *:25565
+2013-04-15 22:05:36 [INFO] Preparing level "world"
+2013-04-15 22:05:36 [INFO] Preparing start region for level 0
+2013-04-15 22:05:36 [INFO] Done (0.461s)! For help, type "help" or "?"
+2013-04-21 13:21:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-04-21 19:03:36 [INFO] Stopping server
+2013-05-01 22:10:15 [INFO] Starting minecraft server version 1.5
+2013-05-01 22:10:15 [INFO] Loading properties
+2013-05-01 22:10:15 [INFO] Default game type: SURVIVAL
+2013-05-01 22:10:15 [INFO] Generating keypair
+2013-05-01 22:10:15 [INFO] Starting Minecraft server on *:25565
+2013-05-01 22:10:15 [INFO] Preparing level "world"
+2013-05-01 22:10:15 [INFO] Preparing start region for level 0
+2013-05-01 22:10:16 [INFO] Done (0.538s)! For help, type "help" or "?"
